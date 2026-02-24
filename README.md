@@ -13,7 +13,8 @@
 ## 安装
 
 ```bash
-/install lijigang/ljg-skill-xray-article
+/plugin marketplace add lijigang/ljg-skill-xray-article
+/plugin install ljg-xray-article
 ```
 
 ## 使用
